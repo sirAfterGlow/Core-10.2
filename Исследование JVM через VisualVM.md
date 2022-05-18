@@ -57,20 +57,20 @@ public class JvmExperience {
 ```
 ## Вывод в консоль
 
->Please open 'ru.netology.JvmExperience' in VisualVm
->00:13:39.524810600: loading io.vertx
->00:13:39.864646700: loaded 529 classes
->00:13:42.873560400: loading io.netty
->00:13:43.375928300: loaded 2117 classes
->00:13:46.386817600: loading org.springframework
->00:13:46.607255800: loaded 869 classes
->00:13:49.610788600: now see heap
->00:13:49.613781800: creating 5000000 objects
->00:13:49.837155400: created
->00:13:52.849561600: creating 5000000 objects
->00:13:53.046030400: created
->00:13:56.104849100: creating 5000000 objects
->00:13:56.323011300: created
+- Please open 'ru.netology.JvmExperience' in VisualVm
+- 00:13:39.524810600: loading io.vertx
+- 00:13:39.864646700: loaded 529 classes
+- 00:13:42.873560400: loading io.netty
+- 00:13:43.375928300: loaded 2117 classes
+- 00:13:46.386817600: loading org.springframework
+- 00:13:46.607255800: loaded 869 classes
+- 00:13:49.610788600: now see heap
+- 00:13:49.613781800: creating 5000000 objects
+- 00:13:49.837155400: created
+- 00:13:52.849561600: creating 5000000 objects
+- 00:13:53.046030400: created
+- 00:13:56.104849100: creating 5000000 objects
+- 00:13:56.323011300: created
 
 ## Скришоты VisualVM
 
